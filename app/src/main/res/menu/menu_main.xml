@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/itemPedido"
+        android:title="Pedido"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itemProductos"
+        android:title="Productos"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itemMisCompras"
+        android:title="Mis Compras"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itemNosotros"
+        android:title="Nosotros"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itemCerrarSesion"
+        android:title="Cerrar Sesión"
+        app:showAsAction="never" />
+</menu>

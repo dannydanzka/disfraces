@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema principal para el modo claro -->
+    <style name="Theme.Disfraces" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Colores principales del tema claro -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <!-- Personaliza el color de la barra de estado -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/purple_700</item>
+        <!-- Fondo claro -->
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>

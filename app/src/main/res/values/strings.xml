@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Disfraces</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="salir">Salir</string>
+    <string name="menu_principal">Menú Principal</string>
+    <string name="mis_compras">Mis Compras</string>
+    <string name="productos">Productos</string>
+    <string name="pedido">Pedido</string>
+    <string name="nosotros">Nosotros</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+</resources>
